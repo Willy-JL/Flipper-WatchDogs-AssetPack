@@ -1,3 +1,19 @@
+# Flipper-WatchDogs
+
+Fork of [@ClaraCrazy](https://github.com/ClaraCrazy)'s [Flipper-Xtreme](https://github.com/ClaraCrazy/Flipper-Xtreme) firmware, with most SFW animations and pics swapped for WatchDogs themed counterparts.
+
+Note that this is solely a visual reskin, everything else is stock Xtreme firmware (including NSFW mode). You should refer to XFW documentation for questions and information.
+
+### Credits:
+
+- [@ClaraCrazy](https://github.com/ClaraCrazy) for the [firmware](https://github.com/ClaraCrazy/Flipper-Xtreme)
+
+- [@wrenchathome](https://github.com/wrenchathome) for the inspiration and for [some Desktop animations](https://github.com/wrenchathome/flip0anims)
+
+- [u/Cheroon](https://www.reddit.com/user/Cheroon/) for the [Passport photos](https://www.reddit.com/r/watch_dogs/comments/50n046/pixel_art_wrench_mask_gif/) (I edited it a bit and changed the eyes)
+
+- All other art I made myself using gameplay, advertisements and rips
+
 <h1 align="center">XFW - <code>Xtreme Firmware</code> for the Flipper Zero</h1>
 
 <p align="center">
@@ -10,6 +26,7 @@
 This firmware is a complete overhaul of the [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware), it also features some of the badly implemented ideas from RogueMaster, and lots of awesome code-bits from [Unleashed](https://github.com/DarkFlippers/unleashed-firmware).
 
 -----
+
 <br>
 <h2 align="center">What makes it special?</h2>
 
@@ -17,6 +34,7 @@ I have spent many hours perfecting this code even further, and getting the most 
 
 The goal of this Firmware is to regularly bring out amazing updates based on what the community wants, with an actual understanding of whats going on. Fixing bugs that are regularly talked about, removing unstable / broken applications (.FAP) and actually using the level system that just sits abandoned everywhere else.
 <br><br>
+
 - The focus of this firmware is functionality & stability: If an App doesnt work, its gone
 
 - Giving the level system a purpose: Right now, each level unlocks a new wallpaper. More on that below
@@ -25,8 +43,8 @@ The goal of this Firmware is to regularly bring out amazing updates based on wha
 
 - Up2Date: This firmware receives updates from a few repositories, not just from its Upstream. If there are functional, but yet un-merged Pull requests on another flipper firmware that are good, they will be in here!
 
-
 -----
+
 <br>
 <h2 align="center">Animations:</h2>
 
@@ -34,15 +52,16 @@ This firmware contains NSFW animations and uses these in stock (NSFW) mode.
 
 The animations are tied to the level system. Each level you reach, unlocks a new animation. The higher your level, the more lewd it will become. Rumors have it, I'm  to be found in at least one of those too
 
-| Level  | Animations |
-| ------------- | ------------- |
+| Level | Animations                    |
+| ----- | ----------------------------- |
 | 1-10  | Try harder. Just sexy clothes |
-| 11-20 | Some tits, maybe an ass |
-| 21-30 | Fully NSFW, graphic scenes |
+| 11-20 | Some tits, maybe an ass       |
+| 21-30 | Fully NSFW, graphic scenes    |
 
 If you dont like that, we added an SFW mode to the Firmware. From the main menu, hit `Arrow UP` and select SFW mode and now all assets will be stock.
 
 -----
+
 <br>
 <h2 align="center">List of changes:</h2>
 
@@ -62,6 +81,7 @@ Note: This repo is always updated with OFW & Unleashed. No need to mention all t
 - Scrolling view for long file names in browser
 - Tamagotchi rom
 ```
+
 ```txt
 [Updated]
 
@@ -76,6 +96,7 @@ Note: This repo is always updated with OFW & Unleashed. No need to mention all t
 - Weather App
 - Applications now use above mentioned API Routes
 ```
+
 ```txt
 [Fixed]
 
@@ -84,6 +105,7 @@ Note: This repo is always updated with OFW & Unleashed. No need to mention all t
 - Leveling system
 - Mood system
 ```
+
 ```txt
 [REMOVED]
 
@@ -93,6 +115,7 @@ Note: This repo is always updated with OFW & Unleashed. No need to mention all t
 ```
 
 ----
+
 <br>
 <h2 align="center">Known Bugs:</h2>
 
@@ -101,6 +124,7 @@ Note: This repo is always updated with OFW & Unleashed. No need to mention all t
 ```
 
 ----
+
 <br>
 <h2 align="center">Install:</h2>
 
@@ -108,14 +132,19 @@ Note: This repo is always updated with OFW & Unleashed. No need to mention all t
 <br><br>
 
 - Download the latest release (.zip) from [The releases tab](https://github.com/ClaraCrazy/Flipper-Xtreme/releases/latest)
+
 - Extract the archive. This is now your new Firmware folder
+
 - Open [qFlipper](https://flipperzero.one/update), head to `SD/Update` and simply move the firmware folder there
+
 - On the Flipper, hit the `Arrow Down` button, this will get you to the file menu. Hit `Arrow Left` once, and then simply search for your updates folder
+
 - Inside that folder, select the Firmware you just moved onto it, and run the file thats simply called `Update`
 
 - Enjoy!
 
 ----
+
 <br>
 <h2 align="center">Build it yourself:</h2>
 
@@ -138,15 +167,18 @@ $ ./fbt resources icons dolphin_ext
 ```
 
 ----
+
 <h2 align="center">Stargazers over time</h2>
 
 [![Stargazers over time](https://starchart.cc/ClaraCrazy/Flipper-Xtreme.svg)](https://starchart.cc/ClaraCrazy/Flipper-Xtreme)
 
 ----
+
 <h2 align="center">Contributors</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55334727/212134625-21383102-02f3-453f-b1d7-8a9c65b27612.svg">
 </p>
 
 ----
+
 <p align="center"> "What we do for ourselves dies with us. What we do for others and the world remains and is immortal.” ― Albert Pike </p>
