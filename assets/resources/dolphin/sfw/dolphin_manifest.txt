@@ -148,56 +148,119 @@ Min level: 1
 Max level: 30
 Weight: 4
 
-Name: sfw/WD_BOTTY_CALL_128x64
+Name: sfw/WD_BOTTY_CALL
 Min butthurt: 0
 Max butthurt: 18
 Min level: 1
 Max level: 30
 Weight: 0
 
-Name: sfw/WD_DEDSEC_LOGO_128x64
+Name: sfw/WD_DEDSEC_AD
 Min butthurt: 0
 Max butthurt: 18
 Min level: 1
 Max level: 30
 Weight: 0
 
-Name: sfw/WD_DEDSEC1_128x64
+Name: sfw/WD_DEDSEC_ANIM
 Min butthurt: 0
 Max butthurt: 18
 Min level: 1
 Max level: 30
 Weight: 0
 
-Name: sfw/WD_DEDSEC2_128x64
+Name: sfw/WD_DEDSEC_LOGO
 Min butthurt: 0
 Max butthurt: 18
 Min level: 1
 Max level: 30
 Weight: 0
 
-Name: sfw/WD_FINGER_128x64
+Name: sfw/WD_DEDSEC_OLD
 Min butthurt: 0
 Max butthurt: 18
 Min level: 1
 Max level: 30
 Weight: 0
 
-Name: sfw/WD_JOIN_US_ALT_128x64
+Name: sfw/WD_DEDSEC_TALK
 Min butthurt: 0
 Max butthurt: 18
 Min level: 1
 Max level: 30
 Weight: 0
 
-Name: sfw/WD_MUMMY_128x64
+Name: sfw/WD_FINGER
 Min butthurt: 0
 Max butthurt: 18
 Min level: 1
 Max level: 30
 Weight: 0
 
-Name: sfw/WD_SPIRAL_128x64
+Name: sfw/WD_GUNS_CAR
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: sfw/WD_HANDS
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: sfw/WD_JOIN_US
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: sfw/WD_LOGO_WD2
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: sfw/WD_MARCUS
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: sfw/WD_MUMMY
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: sfw/WD_REAPER
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: sfw/WD_REAPER_ALT
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: sfw/WD_SKULL
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: sfw/WD_SPIRAL
 Min butthurt: 0
 Max butthurt: 18
 Min level: 1
