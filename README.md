@@ -1,8 +1,6 @@
-# Flipper-WatchDogs-XFW
+# Flipper-WatchDogs-AssetPack
 
-This was once a fork of @ClaraCrazy's [Flipper-Xtreme](https://github.com/ClaraCrazy/Flipper-Xtreme/) firmware, but this WatchDogs Asset Pack is now part of it!
-
-This repo will now only keep the assets for those interested, but they are included and available in XFW so go use that instead!
+Comes included in [Momentum Firmware](https://github.com/Next-Flip/Momentum-Firmware/) and XFW.
 
 Credits:
 - [WrenchAtHome](https://github.com/wrenchathome) for some [desktop animations](https://github.com/wrenchathome/flip0anims)
